@@ -1,0 +1,1 @@
+g++ -g -Wall -std=c++11 -L/home/yxy277/bin/zif/xraylib/lib -I/home/yxy277/bin/zif/xraylib/include/xraylib -lxrl main.cpp -o test
